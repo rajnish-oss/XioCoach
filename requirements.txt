@@ -2,6 +2,7 @@
 Flask
 python-dotenv
 gunicorn
+langchain-huggingface
 
 langchain
 langchain-community
@@ -21,4 +22,5 @@ requests
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
 sentence-transformers
+
 
